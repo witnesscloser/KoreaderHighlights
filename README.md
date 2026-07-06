@@ -1,15 +1,14 @@
--- 2-fancy-highlight-styles.lua
+2-fancy-highlight-styles.lua
+
+Adds new highlight/underline styles to KOReader: Squiggly, Dash, Dot, Double Underline, Zig-Zag, Circle, and Rectangle. 
+KOReader already ships with "Shade" (lighten), "Invert", and "Underline" (underscore) built in. You don't need any extra code for those, they're already in the style picker whenever you highlight text and tap the underline/style icon.
 --
--- Adds new highlight/underline styles to KOReader: Squiggly, Dash, Dot,
--- Double Underline, Zig-Zag, Circle, and Rectangle. KOReader already ships
--- with "Shade" (lighten), "Invert", and "Underline" (underscore) built in --
--- you don't need any extra code for those, they're already in the style
--- picker whenever you highlight text and tap the underline/style icon.
---
--- INSTALLATION:
---   1. Copy this file into the "patches" folder inside your KOReader install,
---      e.g. koreader/patches/2-fancy-highlight-styles.lua
---      (create the "patches" folder if it doesn't exist yet)
---   2. Restart KOReader.
---   3. Select text (or tap an existing highlight) -> tap the underline/style
---      icon -> you'll now see the new styles alongside the stock ones.
+ INSTALLATION:
+1. Copy this file into the "patches" folder inside your KOReader install,
+ 		e.g. koreader/patches/2-fancy-highlight-styles.lua
+   (create the "patches" folder if it doesn't exist yet)
+
+2. Restart KOReader.
+ 
+3. Select text (or tap an existing highlight) -> tap the underline/style
+icon -> you'll now see the new styles alongside the stock ones.
