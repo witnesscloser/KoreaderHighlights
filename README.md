@@ -36,3 +36,5 @@ Enjoy :books: :slightly_smiling_face:
 <img width="50%" height="50%" alt="highlightstylesscreenshot3" src="https://github.com/user-attachments/assets/b97543f8-7059-4aa2-be2b-934bcd14f2cf" />
 <img width="50%" height="50%" alt="highlightstylesscreenshot4" src="https://github.com/user-attachments/assets/12d11454-64e8-4d81-b370-15d730dcdf54" />
 <img width="50%" height="50%" alt="highlightstylesscreenshot5" src="https://github.com/user-attachments/assets/f12af090-02e5-46d7-a596-548118e654d8" />
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G3G322YHRL) 
